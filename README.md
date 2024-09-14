@@ -2,7 +2,7 @@
 
 ## "Getting better day by day"
 
-I created a simple GitHub portfolio integrating a 3D object using `model-viewer`, showcasing my skills as a Web Developer. The 3D model is a Gaming Desktop PC, hosted and rendered directly on my GitHub page for interactive exploration. My portfolio also highlights my expertise in AWS, Kubernetes, Jenkins, and Python, and includes key stats about my GitHub contributions and projects. Below are snapshots from my 3D work:
+I created a simple GitHub portfolio integrating a 3D object using `model-viewer`, showcasing my skills as a Web Developer. The 3D model is a Gaming Desktop PC, hosted and rendered directly on my GitHub page for interactive exploration. This portfolio also highlights my expertise in HTML, CSS, Javascript, and includes key stats about my GitHub contributions and projects. Below are snapshots from my 3D work:
 
 ---
 
@@ -13,7 +13,7 @@ I created a simple GitHub portfolio integrating a 3D object using `model-viewer`
 
 ---
 
-My portfolio reflects my passion for cloud technologies and showcases my technical projects visually and interactively. Feel free to connect with me or explore my projects!
+My portfolio reflects my passion for web development and showcases my technical projects visually and interactively. Feel free to connect with me or explore my projects!
 
 ### Connect with Me
 
