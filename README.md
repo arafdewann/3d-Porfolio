@@ -11,6 +11,9 @@ I created a simple GitHub portfolio integrating a 3D object using `model-viewer`
   <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d2.png" alt="3D Project 2" width="400" height="300">
 </p>
 
+ - [Live Link] (https://vercel.com/arafdewanns-projects/3dporfolio/8ar5rcrU21LDzDDPmT5V5zvATVda)
+
+
 ---
 
 My portfolio reflects my passion for web development and showcases my technical projects visually and interactively. Feel free to connect with me or explore my projects!
