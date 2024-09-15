@@ -21,5 +21,4 @@ My portfolio reflects my passion for web development and showcases my technical 
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mdarafatkoyes)
-- [GitHub](https://github.com/arafdewann)
 - [Email](mailto:arafdewan100@gmail.com)
