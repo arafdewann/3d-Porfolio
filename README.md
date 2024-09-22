@@ -1,4 +1,4 @@
-# 3D Website 
+# 3D Website Project
 
 ## "Getting better day by day"
 
