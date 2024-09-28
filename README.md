@@ -4,7 +4,6 @@
 
 I created a simple GitHub portfolio integrating a 3D object using `model-viewer`, showcasing my skills as a Web Developer. The 3D model is a Gaming Desktop PC, hosted and rendered directly on my GitHub page for interactive exploration. This portfolio also highlights my expertise in HTML, CSS, Javascript, and includes key stats about my GitHub contributions and projects. Below are snapshots from my 3D work:
 
----
 
 <p align="center">
   <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d.png" alt="3D Project 1" width="400" height="300">
