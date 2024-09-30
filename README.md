@@ -7,7 +7,7 @@ I created a simple GitHub portfolio integrating a 3D object using `model-viewer`
 
 <p align="center">
   <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d.png" alt="3D Project 1" width="400" height="300">
-  <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d2.png" alt="3D Project 2" width="400" height="300">
+  <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d2.png" alt="3D Project 2" width="400" height="350">
 </p>
 
  - [Live Link] (https://vercel.com/arafdewanns-projects/3dporfolio/8ar5rcrU21LDzDDPmT5V5zvATVda)
