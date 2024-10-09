@@ -1,6 +1,6 @@
 # 3D Website Project 🚀
 
-## "Getting better day by day"
+## "Getting better day by day" ✅
 
 I created a simple GitHub portfolio integrating a 3D object using `model-viewer`, showcasing my skills as a Web Developer. The 3D model is a Gaming Desktop PC, hosted and rendered directly on my GitHub page for interactive exploration. This portfolio also highlights my expertise in HTML, CSS, Javascript, and includes key stats about my GitHub contributions and projects. Below are snapshots from my 3D work:
 
