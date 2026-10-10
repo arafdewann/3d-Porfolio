@@ -4,11 +4,6 @@
 
 My personal portfolio: a fast, hand-coded site with an interactive 3D gaming PC on the home page, my projects, a blog about the different hats I wear, and a simple way to get in touch. It's built with plain HTML, CSS and JavaScript, no frameworks.
 
-<p align="center">
-  <img src="screenshots/home.png" alt="Home page with the headline and the rotating 3D gaming PC" width="400">
-  <img src="screenshots/projects.png" alt="Projects section with photo cards" width="400">
-</p>
-
 ## About me
 
 I work in operations and scheduling, and I'm passionate about using AI to simplify scheduling, automate repetitive tasks and build practical tools. Alongside that I do web development, AI tools, IT support and security work.
