@@ -64,7 +64,7 @@ No install needed. Download the files and open `index.html` in your browser.
 
 ## Live site
 
-👉 **[View the live portfolio](https://YOUR-LIVE-LINK-HERE)**
+👉 **[View the live portfolio](https://mdarafat-personal-website.vercel.app/)**
 
 ## Connect with me
 
