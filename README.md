@@ -72,7 +72,5 @@ I'm always happy to talk web development, AI tools, collaborations or new ideas.
 
 - 📧 [mdarafatkoyes@gmail.com](mailto:mdarafatkoyes@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdarafatkoyes)
-- 🐙 [GitHub](https://github.com/arafdewann)
-- 📸 [Instagram](https://www.instagram.com/araf_dewan_)
 
-**Arafat**
+**Arafat**t
