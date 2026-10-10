@@ -1,23 +1,81 @@
-# 3D Website Project 🚀
+# MD Arafat Koyes | Portfolio Website 🚀
 
-## "Getting better day by day" ✅
+**Keeping things running. Building what's next.**
 
-I created a simple GitHub portfolio integrating a 3D object using `model-viewer`, showcasing my skills as a Web Developer. The 3D model is a Gaming Desktop PC, hosted and rendered directly on my GitHub page for interactive exploration. This portfolio also highlights my expertise in HTML, CSS, Javascript, and includes key stats about my GitHub contributions and projects. Below are snapshots from my 3D work:
-
+My personal portfolio: a fast, hand-coded site with an interactive 3D gaming PC on the home page, my projects, a blog about the different hats I wear, and a simple way to get in touch. It's built with plain HTML, CSS and JavaScript, no frameworks.
 
 <p align="center">
-  <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d.png" alt="3D Project 1" width="400" height="300">
-  <img src="https://github.com/arafdewann/3d-Porfolio/blob/main/3d2.png" alt="3D Project 2" width="400" height="350">
+  <img src="screenshots/home.png" alt="Home page with the headline and the rotating 3D gaming PC" width="400">
+  <img src="screenshots/projects.png" alt="Projects section with photo cards" width="400">
 </p>
 
- - [Live Link] (https://vercel.com/arafdewanns-projects/3dporfolio/8ar5rcrU21LDzDDPmT5V5zvATVda)
+## About me
 
+I work in operations and scheduling, and I'm passionate about using AI to simplify scheduling, automate repetitive tasks and build practical tools. Alongside that I do web development, AI tools, IT support and security work.
 
----
+I've built **300+ websites over the last 5 years** through personal projects, freelance work and collaborations. This site is where I show a selection of that work in one place.
 
-My portfolio reflects my passion for web development and showcases my technical projects visually and interactively. Feel free to connect with me or explore my projects!
+## What's on the site
 
-### Connect with Me
-// Arafat
+- **Home:** a short intro and an interactive **3D Gaming Desktop PC** you can drag to rotate and scroll to zoom (AR on supported phones)
+- **Projects:**
+  - Small Office IT Lab (VLANs, Active Directory, SOPs, monitoring)
+  - Peregrine Book-offs Solutions (a scheduling tool)
+  - PC Build & System Testing
+  - Content Management System blog platform (Node.js and EJS)
+- **Blog:** short pieces about my experience across operations, web development, AI, IT support and security
+- **Contact:** click Contact to see my email, copy it, or open it in your email app
 
-- [Email](mailto:arafdewan100@gmail.com)
+## Design and features
+
+- Peach, orange and charcoal colour palette with big editorial serif headings
+- Hover effects on buttons, cards, photos and links
+- Sticky navigation with a mobile menu
+- Scrolling ticker band under the hero
+- Responsive layout for phones, tablets and desktops
+- Accessible by default: keyboard focus styles, skip link, readable contrast, and reduced-motion support
+
+## Built with
+
+- HTML
+- CSS (`style.css`)
+- JavaScript (small inline script)
+- [model-viewer](https://modelviewer.dev/) for the 3D model (`.glb`)
+- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) and [Lora](https://fonts.google.com/specimen/Lora) from Google Fonts
+- Free photos from [Pexels](https://www.pexels.com)
+
+## Project files
+
+```
+index.html     the page content and script
+style.css      all the styling
+README.md      this file
+screenshots/   images used in this README
+```
+
+Keep `index.html` and `style.css` in the same folder, or the page will load without its styling.
+
+## Run it locally
+
+No install needed. Download the files and open `index.html` in your browser.
+
+## Make it your own
+
+- **Blog link:** near the bottom of `index.html`, set `const BLOG_URL = "your-blog-address";` to show a "Visit the full blog" button.
+- **Colours:** change the values at the top of `style.css` under `:root`.
+- **3D model:** swap the `src` of the `<model-viewer>` tag for your own `.glb` file.
+
+## Live site
+
+👉 **[View the live portfolio](https://YOUR-LIVE-LINK-HERE)**
+
+## Connect with me
+
+I'm always happy to talk web development, AI tools, collaborations or new ideas.
+
+- 📧 [mdarafatkoyes@gmail.com](mailto:mdarafatkoyes@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdarafatkoyes)
+- 🐙 [GitHub](https://github.com/arafdewann)
+- 📸 [Instagram](https://www.instagram.com/araf_dewan_)
+
+**Arafat**
